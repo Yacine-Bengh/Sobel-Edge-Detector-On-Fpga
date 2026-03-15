@@ -296,14 +296,6 @@ The process works as follows:
 
 Once the edges are detected in the **PL**, the processed data is sent back to the **PS** as an 8-bit stream.
 
-
-## Contribution
-Feel free to contribute to this project by submitting issues or pull requests. Any improvements or additional features are welcome!
-
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-
-## Contact
-For any questions or further information, contact [r3zaadinep0ur@gmail.com](r3zaadinep0ur@gmail.com).
